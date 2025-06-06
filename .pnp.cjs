@@ -32,6 +32,8 @@ const RAW_RUNTIME_STATE =
           ["@fast-check/jest", "virtual:44054250fa45db66bb537d7f889b63e21f845617f28647dee3cebc87a7de5686b316e55d8b968f9ef5f8fc93237e9ae15ec236b5064d13c4a68fc5de92838890#npm:1.8.0"],\
           ["@jest/globals", "npm:29.7.0"],\
           ["@jest/types", "npm:29.6.3"],\
+          ["@protobuf-ts/runtime", "npm:2.11.0"],\
+          ["@protobuf-ts/runtime-rpc", "npm:2.11.0"],\
           ["@tsconfig/node20", "npm:20.1.2"],\
           ["@tsconfig/strictest", "npm:2.0.3"],\
           ["@types/eslint", "npm:8.56.6"],\
@@ -3313,6 +3315,8 @@ const RAW_RUNTIME_STATE =
           ["@fast-check/jest", "virtual:44054250fa45db66bb537d7f889b63e21f845617f28647dee3cebc87a7de5686b316e55d8b968f9ef5f8fc93237e9ae15ec236b5064d13c4a68fc5de92838890#npm:1.8.0"],\
           ["@jest/globals", "npm:29.7.0"],\
           ["@jest/types", "npm:29.6.3"],\
+          ["@protobuf-ts/runtime", "npm:2.11.0"],\
+          ["@protobuf-ts/runtime-rpc", "npm:2.11.0"],\
           ["@tsconfig/node20", "npm:20.1.2"],\
           ["@tsconfig/strictest", "npm:2.0.3"],\
           ["@types/eslint", "npm:8.56.6"],\

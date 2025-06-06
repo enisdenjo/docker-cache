@@ -22,7 +22,9 @@
   "packageManager": "yarn@4.1.1",
   "dependencies": {
     "@actions/cache": "4.0.3",
-    "@actions/core": "1.11.1"
+    "@actions/core": "1.11.1",
+    "@protobuf-ts/runtime": "2.11.0",
+    "@protobuf-ts/runtime-rpc": "2.11.0"
   },
   "devDependencies": {
     "@cspell/dict-win32": "2.0.3",

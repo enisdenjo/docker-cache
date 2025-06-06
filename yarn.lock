@@ -1127,7 +1127,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@protobuf-ts/runtime-rpc@npm:^2.11.0":
+"@protobuf-ts/runtime-rpc@npm:2.11.0, @protobuf-ts/runtime-rpc@npm:^2.11.0":
   version: 2.11.0
   resolution: "@protobuf-ts/runtime-rpc@npm:2.11.0"
   dependencies:
@@ -1136,7 +1136,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@protobuf-ts/runtime@npm:^2.11.0":
+"@protobuf-ts/runtime@npm:2.11.0, @protobuf-ts/runtime@npm:^2.11.0":
   version: 2.11.0
   resolution: "@protobuf-ts/runtime@npm:2.11.0"
   checksum: 10c0/522ce07ff0adc19c31332b54c9056e8865f3bd5788a59ddd936b947cb19a25fdeaa4acbb4493ce52f7c78b2e5d400e6fe6239b10e996e9fffc466ee5be3a3d95
@@ -2412,6 +2412,8 @@ __metadata:
     "@fast-check/jest": "npm:1.8.0"
     "@jest/globals": "npm:29.7.0"
     "@jest/types": "npm:29.6.3"
+    "@protobuf-ts/runtime": "npm:2.11.0"
+    "@protobuf-ts/runtime-rpc": "npm:2.11.0"
     "@tsconfig/node20": "npm:20.1.2"
     "@tsconfig/strictest": "npm:2.0.3"
     "@types/eslint": "npm:8.56.6"
